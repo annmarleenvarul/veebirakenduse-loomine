@@ -1,7 +1,4 @@
 ükskakskolm
-<<<<<<< HEAD
 neliviiskuus
-=======
 kakskolmneli
 
->>>>>>> 9d7a76b9304acf1cfdf730f1408e3947694510c4
